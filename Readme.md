@@ -1,6 +1,8 @@
 ### 3DES 🔐 For FT APIs
 
 
+`npm install nod3des`
+
 ```
 //Encryption 
 var _3DES = require('nod3des');
