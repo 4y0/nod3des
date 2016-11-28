@@ -1,6 +1,6 @@
 {
   "name": "nod3des",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "3DES encryption for FT APIs",
   "main": "index.js",
   "scripts": {
